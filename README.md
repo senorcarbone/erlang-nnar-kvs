@@ -2,7 +2,7 @@ Erlang Distributed Algorithms used as benchmarks
 =================================================
 
 Supports deployment of distributed algorithm scenarios.
-The project developed along with the 'Kompics performance tests' benchmark suite as a supplementary Erlang implementation.
+The project was developed along with the 'Kompics performance tests' benchmark suite as a supplementary Erlang implementation.
 
 Tha Kompics performance tests suit can be found here:
 https://github.com/Bathtor/KompicsPerformanceTests
